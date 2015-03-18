@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftGoogleMaps/GMapsTableViewController.swift"
+            timestampString = "448349175.89556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GMapsTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftGoogleMaps/GMapsTableViewController.swift"
+            timestampString = "448349879.710599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GMapsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftGoogleMaps.GMapsTableViewController.locations.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwiftGoogleMaps"
+                  urlString = "file:///Users/Pablo/Dropbox/ITC/10%20Semestre/Extra/SwiftGoogleMaps/SwiftGoogleMaps/GMapsTableViewController.swift"
+                  timestampString = "448349879.716887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftGoogleMaps.GMapsTableViewController.init (SwiftGoogleMaps.GMapsTableViewController.Type)(style : C.UITableViewStyle) -&gt; SwiftGoogleMaps.GMapsTableViewController"
+                  moduleName = "SwiftGoogleMaps"
+                  urlString = "file:///Users/Pablo/Dropbox/ITC/10%20Semestre/Extra/SwiftGoogleMaps/SwiftGoogleMaps/GMapsTableViewController.swift"
+                  timestampString = "448349879.717124"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftGoogleMaps.GMapsTableViewController.init (SwiftGoogleMaps.GMapsTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; SwiftGoogleMaps.GMapsTableViewController"
+                  moduleName = "SwiftGoogleMaps"
+                  urlString = "file:///Users/Pablo/Dropbox/ITC/10%20Semestre/Extra/SwiftGoogleMaps/SwiftGoogleMaps/GMapsTableViewController.swift"
+                  timestampString = "448349879.717331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftGoogleMaps.GMapsTableViewController.init (SwiftGoogleMaps.GMapsTableViewController.Type)() -&gt; SwiftGoogleMaps.GMapsTableViewController"
+                  moduleName = "SwiftGoogleMaps"
+                  urlString = "file:///Users/Pablo/Dropbox/ITC/10%20Semestre/Extra/SwiftGoogleMaps/SwiftGoogleMaps/GMapsTableViewController.swift"
+                  timestampString = "448349879.717549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftGoogleMaps.GMapsTableViewController.init (SwiftGoogleMaps.GMapsTableViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; SwiftGoogleMaps.GMapsTableViewController"
+                  moduleName = "SwiftGoogleMaps"
+                  urlString = "file:///Users/Pablo/Dropbox/ITC/10%20Semestre/Extra/SwiftGoogleMaps/SwiftGoogleMaps/GMapsTableViewController.swift"
+                  timestampString = "448349879.717706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftGoogleMaps/ViewController.swift"
+            timestampString = "448350565.875092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftGoogleMaps/ViewController.swift"
+            timestampString = "448350012.833005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

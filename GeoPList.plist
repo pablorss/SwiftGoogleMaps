@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>longitud</key>
+		<string>-100.288778</string>
+		<key>latitud</key>
+		<string> 25.652000</string>
+		<key>nombre</key>
+		<string>Escuela de Arte</string>
+		<key>etiqueta</key>
+		<string>ATLI</string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string>-100.292526</string>
+		<key>latitud</key>
+		<string>25.653631</string>
+		<key>nombre</key>
+		<string>Centro de Estudios para el Desarrollo Sostenible</string>
+		<key>etiqueta</key>
+		<string>CEDES</string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string>-100.290953</string>
+		<key>latitud</key>
+		<string>25.650435</string>
+		<key>nombre</key>
+		<string>Centro de Tecnología Avanzada</string>
+		<key>etiqueta</key>
+		<string>CETEC</string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string>-100.286405</string>
+		<key>latitud</key>
+		<string>25.652272</string>
+		<key>nombre</key>
+		<string>Estadio Tecnológico</string>
+		<key>etiqueta</key>
+		<string>Estadio</string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string>-100.290839</string>
+		<key>latitud</key>
+		<string>25.651449</string>
+		<key>nombre</key>
+		<string>Vicerrectoría de enseñanza</string>
+		<key>etiqueta</key>
+		<string>Rectoría</string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string>-100.287193</string>
+		<key>latitud</key>
+		<string>25.650637</string>
+		<key>nombre</key>
+		<string>Gimnasio Tecnológico</string>
+		<key>etiqueta</key>
+		<string>Gimnasio</string>
+	</dict>
+</array>
+</plist>
